@@ -3,7 +3,7 @@ def main():
     print ("4. Welcome to Tech Job Solutions")
     first_number = int(input("Enter the first number"))
     second_number = int(input("Enter the second number"))
-    
+    #adding two numbers
     add_two_numbers(first_number, second_number)
 
 
